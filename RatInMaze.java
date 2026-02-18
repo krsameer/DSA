@@ -1,3 +1,8 @@
+//Rat in a Maze Problem
+//Solved using backtracking
+//Time Complexity: O(4^(n*n)) in worst case when all cells are open
+//Space Complexity: O(n*n) for visited array and recursion stack
+
 import java.util.*;
 
 public class RatInMaze {
