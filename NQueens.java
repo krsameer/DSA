@@ -1,3 +1,8 @@
+// Time Complexity:
+// Approximately O(N!) in the worst case (backtracking search).
+// Space Complexity:
+// O(N²) for the board + recursion stack.
+
 import java.util.*;
 
 public class NQueens {
