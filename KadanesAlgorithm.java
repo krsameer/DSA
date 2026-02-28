@@ -1,3 +1,8 @@
+//Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum, and return its sum.
+//Time Complexity: O(n) for finding the maximum subarray sum.
+//Space Complexity: O(1) for using constant extra space.
+
+
 public class KadanesAlgorithm {
     
     public static void main(String[] args) {
