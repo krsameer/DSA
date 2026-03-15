@@ -1,5 +1,7 @@
 //Leetcode 62. Unique Paths
 //Solving using recursion
+//Time Complexity: O(2^(m+n)) in the worst case, as each call can lead to two additional calls.
+//Space Complexity: O(m+n) for the recursion stack in the worst case, as the maximum depth of the recursion can be m+n when we are at the bottom-right corner of the grid.  
 
 public class UniquePaths {
     public static void main(String[] args) {
