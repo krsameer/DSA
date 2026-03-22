@@ -1,3 +1,6 @@
+//Bubble Sort
+// Time Complexity: O(n^2) for bubble sort
+// Space Complexity: O(1) for in place sorting
 
 public class BubbleSort {
     public static void bubbleSort(int[] arr) {
