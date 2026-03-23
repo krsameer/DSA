@@ -1,5 +1,6 @@
 //CeilTheFloor problem in Unsorted Arrays
-
+// Time Complexity: O(n) where n is the length of the array, as we need to traverse the entire array to find the floor and ceil.
+// Space Complexity: O(1) as we are using only a constant amount of extra space for the floor and ceil variables.
 
 public class CeilTheFloorUSA {
 
