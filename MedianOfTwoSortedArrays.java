@@ -1,4 +1,6 @@
 // LeetCode: 4. Median of Two Sorted Arrays
+// Time Complexity: O(log(min(m, n))) where m and n are the lengths of the two input arrays. We perform a binary search on the smaller array.
+// Space Complexity: O(1) as we are using only a constant amount of extra space.
 
 public class MedianOfTwoSortedArrays {
 
