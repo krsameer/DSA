@@ -3,7 +3,7 @@
 // Space Complexity: O(1)
 // Given a rotated sorted array and a target value, return the index of the target if it is in the array, or -1 if it is not in the array.
 
-class Rotated Sorted Array Search {
+public class RotatedSortedArraySearch {
     public int search(int[] nums, int target) {
         int left = 0, right = nums.length - 1;
 
